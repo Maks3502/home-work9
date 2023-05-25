@@ -10,16 +10,25 @@
 
 // завдання 3
 // const lenth = ['js', 'css', 'jq'];
-// console.log(lenth.shift(0));
+// console.log(lenth[0]);
 
 // завдання 4
-// const lenth = ['js', 'css', 'jq'];
-// console.log(lenth.pop(2));
+// let lenth =  ['js', 'css', 'jq'];
+// console.log(lenth.slice(2, 3)); 
+// console.log(lenth.length -1);
+// console.log(lenth[fuhh4.length -1]);
+
+
 
 // завдання 5
 // const number = [1, 2, 3, 4];
-// number.splice(4, 0, 6, 7);
-// console.log(number);
+// console.log(number.slice(0, 3));
+
+
+//  завдання 6
+// const number = [1, 2, 3, 4];
+// console.log(number.slice(3));
+
 
 
 // завдання 7
